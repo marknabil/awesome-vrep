@@ -8,6 +8,9 @@ https://github.com/ULgRobotics/trs
 https://github.com/RhobanProject/Vrep
 
 
+https://github.com/GaloisInc/vrep-quadcopter-plugin
+
+
 Coupled with ROS
 -----------------
 
@@ -18,8 +21,10 @@ https://github.com/fferri/v_repExtOctomap
 swarm drones/quad
 https://github.com/merosss/VRepRosQuadSwarm
 
-
 https://github.com/arennuit/vrep_ros_control_example
+
+https://github.com/cedricpradalier/vrep_ros_stack
+
 
 good practices
 --------------
