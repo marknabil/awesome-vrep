@@ -10,9 +10,14 @@ https://github.com/RhobanProject/Vrep
 
 https://github.com/GaloisInc/vrep-quadcopter-plugin
 
+Bug algo with mobile robot
+https://github.com/ar0ne/v-rep-robotics
+well documented
 
 Coupled with ROS
 -----------------
+
+https://github.com/t1ina2003/vrep_plugin_ros
 
 Octomap 
 https://github.com/fferri/v_repExtOctomap
