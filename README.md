@@ -29,7 +29,8 @@ https://github.com/merosss/VRepRosQuadSwarm
 https://github.com/arennuit/vrep_ros_control_example
 
 https://github.com/cedricpradalier/vrep_ros_stack
-
+Quadrotor bug2 algorithm 
+https://github.com/formica-multiuso/bug2Dijkstra
 
 good practices
 --------------
