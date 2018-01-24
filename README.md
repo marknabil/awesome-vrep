@@ -22,6 +22,7 @@ https://github.com/t1ina2003/vrep_plugin_ros
 Octomap 
 https://github.com/fferri/v_repExtOctomap
 
+https://github.com/AndrewChubatiuk/ROS-UAV
 
 swarm drones/quad
 https://github.com/merosss/VRepRosQuadSwarm
